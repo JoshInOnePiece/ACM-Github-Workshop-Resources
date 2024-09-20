@@ -10,3 +10,6 @@
 
 ## Github emoji cheatsheet
 - https://gist.github.com/rxaviers/7360908
+
+## ReadME Typing SVG
+- https://readme-typing-svg.demolab.com/demo/
