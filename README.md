@@ -11,5 +11,8 @@
 ## Github emoji cheatsheet
 - https://gist.github.com/rxaviers/7360908
 
+## ReadMe Badges
+- https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
+
 ## ReadME Typing SVG
 - https://readme-typing-svg.demolab.com/demo/
